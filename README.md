@@ -1,2 +1,2 @@
 # Bikes page
- Page made html CSS and Javascript
+ Page made with html CSS and Javascript
